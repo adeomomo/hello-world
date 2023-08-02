@@ -48,7 +48,7 @@
   </div>
 
    <h1> Good Job Ade </h1>
-   <h1> Ansible deployment complete!! </h1>
+   <h1> Ansible deployment v2 complete!! </h1>
 
   
 </form>
